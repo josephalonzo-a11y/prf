@@ -1,0 +1,130 @@
+[
+    {
+        "envia ":"¿Cómo te llamas?",
+        "sugerencias":"Ninam dia?"
+    },
+    {
+        "envia ":"¿Dónde vives?",
+        "sugerencias":"Anira iwisma?"
+    },
+    {
+        "envia ":"¿De dónde eres?",
+        "sugerencias":"Ani wina sma?"
+    },
+    {
+        "envia ":"¿Dónde naciste?",
+        "sugerencias":"Anira aisubi takram?"
+    },
+    {
+        "envia ":"¿Cuántos idiomas hablas?",
+        "sugerencias":"Bila nani an aisisma?"
+    },
+    {
+        "envia ":"¿Qué comunidades \/ pueblos has visitado?",
+        "sugerencias":"Dia tawan nani wih kaikram?"
+    },
+    {
+        "envia ":"¿Cuántos miembros tiene tu familia?",
+        "sugerencias":"Pamalikam ra, an banghwisma ki?"
+    },
+    {
+        "envia ":"¿Cuánto tiempo llevas en la verdad?",
+        "sugerencias":"Raitka ra pyua an brisma?"
+    },
+    {
+        "envia ":"¿A qué congregación perteneces?",
+        "sugerencias":"Ani kangrigisan ra dimisma ki?"
+    },
+    {
+        "envia ":"¿Cuántos publicadores hay en tu congregación?",
+        "sugerencias":"Smalki tataukra nani an barasa kangrigisankam ra?"
+    },
+    {
+        "envia ":"¿Cuántos precursores hay en tu congregación?",
+        "sugerencias":"Taura wih smasmalkra nani an barasa kangrigisankam ra?"
+    },
+    {
+        "envia ":"¿Qué te gusta hacer?",
+        "sugerencias":"Dia daukaia laik sma?"
+    },
+    {
+        "envia ":"¿Cuántos estudios bíblicos tienes?",
+        "sugerencias":"Baibil stadika nani an brisma ki?"
+    },
+    {
+        "envia ":"¿Cuántos de tus estudiantes bíblicos se han bautizado?",
+        "sugerencias":"Baibil stadika nani an tahbi dauki banghwan?"
+    },
+    {
+        "envia ":"¿A qué hora es la reunion?",
+        "sugerencias":"Asla aidrubanka ba dia auarka ra sa?"
+    },
+    {
+        "envia ":"¿Dónde te reúnes?",
+        "sugerencias":"Anira asla aidrubisma?"
+    },
+    {
+        "envia ":"¿Cuál cántico del Reino te gusta más?",
+        "sugerencias":"Ani king laka lawanka nani kau laik sma ki?"
+    },
+    {
+        "envia ":"¿Cómo llegaste a ser Testigo de Jehová?",
+        "sugerencias":"Nahki Jehova Witniska takram ki?"
+    },
+    {
+        "envia ":"¿Qué enfermedades te gustaría ver sanadas?",
+        "sugerencias":"Dia siknis nani pat rakan kan kaikaia wantsma ki?"
+    },
+    {
+        "envia ":"¿En qué servicio a tiempo completo has participado?",
+        "sugerencias":"Dia sat piua aiskara warkka dimram ki?"
+    },
+    {
+        "envia ":"¿En qué trabajas?",
+        "sugerencias":"Dia sat wark daukisma?"
+    },
+    {
+        "envia ":"¿En qué faceta del servicio del campo participas más?",
+        "sugerencias":"Dia sat smalki ba warkka ra kau dimisma ki?"
+    },
+    {
+        "envia ":"¿Qué te gusta comer?",
+        "sugerencias":"Dia piaia laik sma?"
+    },
+    {
+        "envia ":"¿Dónde te gusta ir de vacaciones?",
+        "sugerencias":"Ani pliska ra kirhbi waia laik sma?"
+    },
+    {
+        "envia ":"¿Quién es tu superintendente viajante?",
+        "sugerencias":"Ya ba impaki pura kakairikam sa ki?"
+    },
+    {
+        "envia ":"¿Cuál es uno de tus textos favoritos?",
+        "sugerencias":"Ani baibil tikska ba kau laik sma ki?"
+    },
+    {
+        "envia ":"¿Cuántos hijos tienes?",
+        "sugerencias":"Luhpa an brisma?"
+    },
+    {
+        "envia ":"¿Sabe usted leer?",
+        "sugerencias":"Man rid munaia lan sma ki?"
+    },
+    {
+        "envia ":"¿Cuántos años tienes?",
+        "sugerencias":"Mani an brisma?"
+    },
+    {
+        "envia ":"¿Cómo es tu apellido?",
+        "sugerencias":"Taikil kam nahki sa ki?"
+    },
+    {
+        "envia ":"¿Cómo puedo decir...?",
+        "sugerencias":"Nahki wiaia sip sna...?"
+    },
+    {
+        "envia ":"La palabra .....¿Qué significa?",
+        "sugerencias":".....bila ba; dia tanka brisa ki?"
+    }
+]
