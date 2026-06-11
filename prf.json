@@ -1,130 +1,130 @@
 [
     {
-        "envia ":"¿Cómo te llamas?",
-        "sugerencias":"Ninam dia?"
+        "palabra":"¿Cómo te llamas?",
+        "significado":"Ninam dia?"
     },
     {
-        "envia ":"¿Dónde vives?",
-        "sugerencias":"Anira iwisma?"
+        "palabra":"¿Dónde vives?",
+        "significado":"Anira iwisma?"
     },
     {
-        "envia ":"¿De dónde eres?",
-        "sugerencias":"Ani wina sma?"
+        "palabra":"¿De dónde eres?",
+        "significado":"Ani wina sma?"
     },
     {
-        "envia ":"¿Dónde naciste?",
-        "sugerencias":"Anira aisubi takram?"
+        "palabra":"¿Dónde naciste?",
+        "significado":"Anira aisubi takram?"
     },
     {
-        "envia ":"¿Cuántos idiomas hablas?",
-        "sugerencias":"Bila nani an aisisma?"
+        "palabra":"¿Cuántos idiomas hablas?",
+        "significado":"Bila nani an aisisma?"
     },
     {
-        "envia ":"¿Qué comunidades \/ pueblos has visitado?",
-        "sugerencias":"Dia tawan nani wih kaikram?"
+        "palabra":"¿Qué comunidades \/ pueblos has visitado?",
+        "significado":"Dia tawan nani wih kaikram?"
     },
     {
-        "envia ":"¿Cuántos miembros tiene tu familia?",
-        "sugerencias":"Pamalikam ra, an banghwisma ki?"
+        "palabra":"¿Cuántos miembros tiene tu familia?",
+        "significado":"Pamalikam ra, an banghwisma ki?"
     },
     {
-        "envia ":"¿Cuánto tiempo llevas en la verdad?",
-        "sugerencias":"Raitka ra pyua an brisma?"
+        "palabra":"¿Cuánto tiempo llevas en la verdad?",
+        "significado":"Raitka ra pyua an brisma?"
     },
     {
-        "envia ":"¿A qué congregación perteneces?",
-        "sugerencias":"Ani kangrigisan ra dimisma ki?"
+        "palabra":"¿A qué congregación perteneces?",
+        "significado":"Ani kangrigisan ra dimisma ki?"
     },
     {
-        "envia ":"¿Cuántos publicadores hay en tu congregación?",
-        "sugerencias":"Smalki tataukra nani an barasa kangrigisankam ra?"
+        "palabra":"¿Cuántos publicadores hay en tu congregación?",
+        "significado":"Smalki tataukra nani an barasa kangrigisankam ra?"
     },
     {
-        "envia ":"¿Cuántos precursores hay en tu congregación?",
-        "sugerencias":"Taura wih smasmalkra nani an barasa kangrigisankam ra?"
+        "palabra":"¿Cuántos precursores hay en tu congregación?",
+        "significado":"Taura wih smasmalkra nani an barasa kangrigisankam ra?"
     },
     {
-        "envia ":"¿Qué te gusta hacer?",
-        "sugerencias":"Dia daukaia laik sma?"
+        "palabra":"¿Qué te gusta hacer?",
+        "significado":"Dia daukaia laik sma?"
     },
     {
-        "envia ":"¿Cuántos estudios bíblicos tienes?",
-        "sugerencias":"Baibil stadika nani an brisma ki?"
+        "palabra":"¿Cuántos estudios bíblicos tienes?",
+        "significado":"Baibil stadika nani an brisma ki?"
     },
     {
-        "envia ":"¿Cuántos de tus estudiantes bíblicos se han bautizado?",
-        "sugerencias":"Baibil stadika nani an tahbi dauki banghwan?"
+        "palabra":"¿Cuántos de tus estudiantes bíblicos se han bautizado?",
+        "significado":"Baibil stadika nani an tahbi dauki banghwan?"
     },
     {
-        "envia ":"¿A qué hora es la reunion?",
-        "sugerencias":"Asla aidrubanka ba dia auarka ra sa?"
+        "palabra":"¿A qué hora es la reunion?",
+        "significado":"Asla aidrubanka ba dia auarka ra sa?"
     },
     {
-        "envia ":"¿Dónde te reúnes?",
-        "sugerencias":"Anira asla aidrubisma?"
+        "palabra":"¿Dónde te reúnes?",
+        "significado":"Anira asla aidrubisma?"
     },
     {
-        "envia ":"¿Cuál cántico del Reino te gusta más?",
-        "sugerencias":"Ani king laka lawanka nani kau laik sma ki?"
+        "palabra":"¿Cuál cántico del Reino te gusta más?",
+        "significado":"Ani king laka lawanka nani kau laik sma ki?"
     },
     {
-        "envia ":"¿Cómo llegaste a ser Testigo de Jehová?",
-        "sugerencias":"Nahki Jehova Witniska takram ki?"
+        "palabra":"¿Cómo llegaste a ser Testigo de Jehová?",
+        "significado":"Nahki Jehova Witniska takram ki?"
     },
     {
-        "envia ":"¿Qué enfermedades te gustaría ver sanadas?",
-        "sugerencias":"Dia siknis nani pat rakan kan kaikaia wantsma ki?"
+        "palabra":"¿Qué enfermedades te gustaría ver sanadas?",
+        "significado":"Dia siknis nani pat rakan kan kaikaia wantsma ki?"
     },
     {
-        "envia ":"¿En qué servicio a tiempo completo has participado?",
-        "sugerencias":"Dia sat piua aiskara warkka dimram ki?"
+        "palabra":"¿En qué servicio a tiempo completo has participado?",
+        "significado":"Dia sat piua aiskara warkka dimram ki?"
     },
     {
-        "envia ":"¿En qué trabajas?",
-        "sugerencias":"Dia sat wark daukisma?"
+        "palabra":"¿En qué trabajas?",
+        "significado":"Dia sat wark daukisma?"
     },
     {
-        "envia ":"¿En qué faceta del servicio del campo participas más?",
-        "sugerencias":"Dia sat smalki ba warkka ra kau dimisma ki?"
+        "palabra":"¿En qué faceta del servicio del campo participas más?",
+        "significado":"Dia sat smalki ba warkka ra kau dimisma ki?"
     },
     {
-        "envia ":"¿Qué te gusta comer?",
-        "sugerencias":"Dia piaia laik sma?"
+        "palabra":"¿Qué te gusta comer?",
+        "significado":"Dia piaia laik sma?"
     },
     {
-        "envia ":"¿Dónde te gusta ir de vacaciones?",
-        "sugerencias":"Ani pliska ra kirhbi waia laik sma?"
+        "palabra":"¿Dónde te gusta ir de vacaciones?",
+        "significado":"Ani pliska ra kirhbi waia laik sma?"
     },
     {
-        "envia ":"¿Quién es tu superintendente viajante?",
-        "sugerencias":"Ya ba impaki pura kakairikam sa ki?"
+        "palabra":"¿Quién es tu superintendente viajante?",
+        "significado":"Ya ba impaki pura kakairikam sa ki?"
     },
     {
-        "envia ":"¿Cuál es uno de tus textos favoritos?",
-        "sugerencias":"Ani baibil tikska ba kau laik sma ki?"
+        "palabra":"¿Cuál es uno de tus textos favoritos?",
+        "significado":"Ani baibil tikska ba kau laik sma ki?"
     },
     {
-        "envia ":"¿Cuántos hijos tienes?",
-        "sugerencias":"Luhpa an brisma?"
+        "palabra":"¿Cuántos hijos tienes?",
+        "significado":"Luhpa an brisma?"
     },
     {
-        "envia ":"¿Sabe usted leer?",
-        "sugerencias":"Man rid munaia lan sma ki?"
+        "palabra":"¿Sabe usted leer?",
+        "significado":"Man rid munaia lan sma ki?"
     },
     {
-        "envia ":"¿Cuántos años tienes?",
-        "sugerencias":"Mani an brisma?"
+        "palabra":"¿Cuántos años tienes?",
+        "significado":"Mani an brisma?"
     },
     {
-        "envia ":"¿Cómo es tu apellido?",
-        "sugerencias":"Taikil kam nahki sa ki?"
+        "palabra":"¿Cómo es tu apellido?",
+        "significado":"Taikil kam nahki sa ki?"
     },
     {
-        "envia ":"¿Cómo puedo decir...?",
-        "sugerencias":"Nahki wiaia sip sna...?"
+        "palabra":"¿Cómo puedo decir...?",
+        "significado":"Nahki wiaia sip sna...?"
     },
     {
-        "envia ":"La palabra .....¿Qué significa?",
-        "sugerencias":".....bila ba; dia tanka brisa ki?"
+        "palabra":"La palabra .....¿Qué significa?",
+        "significado":".....bila ba; dia tanka brisa ki?"
     }
 ]
